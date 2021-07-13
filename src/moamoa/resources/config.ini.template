@@ -1,0 +1,11 @@
+[DEFAULT]
+PPOMPPU_URL = https://www.ppomppu.co.kr/zboard/zboard.php?id=ppomppu
+DAANGN_URL = https://www.daangn.com
+
+[JDBC]
+HOST=localhost
+USER=pp_user
+PASSWORD=pp_pass
+DB=ppomppu
+CHARSET=utf8
+

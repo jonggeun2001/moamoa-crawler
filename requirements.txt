@@ -1,0 +1,9 @@
+APScheduler~=3.6.3
+requests~=2.25.1
+beautifulsoup4~=4.9.3
+telegram~=0.0.1
+setuptools~=57.1.0
+python-telegram-bot~=13.7
+
+PyMySQL~=1.0.2
+SQLAlchemy==1.4.20
